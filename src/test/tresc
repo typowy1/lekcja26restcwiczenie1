@@ -1,0 +1,17 @@
+https://bootcamp.javastart.pl/konto/cwiczenie/1413
+https://www.youtube.com/watch?v=aRKhA43EyR8&feature=emb_title
+
+REST CRUD
+Treść zadania
+
+Stwórz aplikację od podstaw, która będzie dostarczałą podstawową funkcjonalność CRUD (Create, Read, Update, Delete) do zarządzania listą zadań poprzez RESTowy interfejs z wykorzystaniem formatu JSON.
+
+Oczekiwane funkcjonalności:
+
+    pobieranie listy wszystkich zadań
+    pobieranie jednego zadania korzystając z jego identyfikatora
+    dodawanie pojedynczego zadania
+    aktualizacja zadania
+    usuwanie zadania
+
+http://git.javastart.pl/rozwiazania/rest-crud-lista-zadan-134
